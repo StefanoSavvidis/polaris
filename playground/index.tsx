@@ -1,6 +1,6 @@
 import * as React from 'react';
-import {render} from 'react-dom';
-import {AppContainer} from 'react-hot-loader';
+import { render } from 'react-dom';
+import { AppContainer } from 'react-hot-loader';
 
 function renderPlayground() {
   // eslint-disable-next-line no-require-imports
